@@ -1,1 +1,8 @@
-# edd-calculadora
+# Calculadora
+Este é o repositório do trabalho em grupo desenvolvido para a matéria de Estrutura de Dados.
+
+## Participantes
+- Lucas Gonçalves Daher;
+- Vinícius Costa Nunes;
+- Maria Eduarda Marques;
+- Marcos Alexandre Sousa Silva;
